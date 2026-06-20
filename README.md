@@ -215,8 +215,5 @@ Contributions are welcome. Suggested workflow:
 
 Please follow the repository code style and include tests for new features.
 
-## License
-Specify your license (e.g., MIT). Add a LICENSE file in the repo.
-
 ## Acknowledgements
 Built with FastAPI and the excellent Python open-source ecosystem.

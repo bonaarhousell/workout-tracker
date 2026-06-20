@@ -2,6 +2,9 @@
 
 A RESTful Workout Tracker API built with FastAPI, PostgreSQL, SQLAlchemy, and JWT authentication. This API helps users create workout plans, schedule workouts, track progress, and generate workout reports.
 
+Project idea from roadmap.sh:
+https://roadmap.sh/projects/fitness-workout-tracker
+
 - Language: Python (100%)
 - Repo: bonaarhousell/workout-tracker
 - Description: Project Workout Tracker using FastAPI
